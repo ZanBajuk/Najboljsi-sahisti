@@ -1,5 +1,4 @@
 # Najboljši šahisti
-=======================
 
 Analiziral bom kako se je spreminjala lestvica najboljših stotih šahistov zadnjih 100 let
 [FIDE] https://ratings.fide.com/toplist.phtml
